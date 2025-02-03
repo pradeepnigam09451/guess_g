@@ -1,0 +1,42 @@
+body,html{
+         background-color: rgba(15, 106, 112, 0.301);
+         margin: 0;
+         padding: 0;
+         height: 100%;
+}
+.container{
+         height: 100%;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         text-align: center;
+        
+}
+.box{
+         background-color: #0847475a;
+         height: 350px;
+         width: 300px;
+         text-align: center;
+         border-radius: 20px;
+         box-shadow: 0px 0px 15px 15px rgba(221, 210, 9, 0.671);
+         
+        
+         
+        
+}
+button{
+         height: 20px;
+
+         border-radius: 5px;
+         
+         
+}
+
+button:hover {
+         background-color: #2a7676; /* Darker blue */
+         transform: scale(1.05); /* Slightly enlarge the button */
+         border-color: #22504d9d;
+          /* Add a white border */
+     }
+
+
